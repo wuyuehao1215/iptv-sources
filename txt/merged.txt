@@ -2462,7 +2462,7 @@ Test,#genre#
 [BD]永嘉新闻综合频道,https://stream1.freetv.fun/29fc67623c9edde852604acf8f0048e7162ad8dda10d4817ea61788ebd4ae7e5.m3u8
 [BD]新闻综合,https://stream1.freetv.fun/be5ce7d687ea1aba7bab0e0bcab040d830a3a0ebc2808f230df3d2c522af1c58.m3u8
 [BD]浙江公共新闻,https://stream1.freetv.fun/c5a266d693da3b49eb6a86a0e7019f1731826536ba1915a25fbf173c909918da.m3u8
-[BD]河南新闻,https://stream1.freetv.fun/8e29f64d99103ce461bf6231556f47046bab5f109f1074fcd6e5e4a03fc20c3a.m3u8
+[BD]河南新闻,https://stream1.freetv.fun/a0caf795a52bb23d1d59bb721fd67074ece2c5ef334780a4cd35cd63c9e9731a.ctv
 [BD]河南法制,https://stream1.freetv.fun/716ec286c6d16cc36b0f685056c166212141fa60a7f4238fe591e18cb2e36e67.m3u8
 [BD]泰州一套新闻综合,https://stream1.freetv.fun/8bf95f0dba507f127849c628a18b9bfec5ea7dea22d6ed1315ac28a207dcdaa3.m3u8
 [HD]浙江新闻,https://stream1.freetv.fun/03d41c16ba390e8c132dda44c07c14d196b43567d8d030a6a69515bb2a1bb4c5.m3u8
@@ -2542,7 +2542,7 @@ Test,#genre#
 [SD]吉林卫视,https://stream1.freetv.fun/657b3cc8f2106d0e0b52d0bc7f0e15db544b37b3e86bf5f486f351b9db61fa2e.m3u8
 [VGA]吉林乡村,https://stream1.freetv.fun/68f640f2cdee48101b0a69e627390343ba0503653b29ec294a2c172a3b742ee8.m3u8
 [BD]四川卫视高清,https://stream1.freetv.fun/6bce021034becfd307ca523bc22252107b378df99a6d6c3255da5647bc512279.m3u8
-[BD]大湾区卫视,https://stream1.freetv.fun/f8e0ebc17c330fb1f1993f67b3df12c2967c9aeb697ad56adae5613211babe42.m3u8
+[BD]大湾区卫视,https://stream1.freetv.fun/530100dc12484a6e1bc74a557a42b260134a998632ba4a1cafd0339efeb774d8.ctv
 [BD]天津卫视,https://stream1.freetv.fun/b174433fa74b990a5146d8f6ee46307b62bde3e61df3a44eb8aaa649af3cc6fd.m3u8
 [HD]安多卫视,https://stream1.freetv.fun/290a71e47606fa713caa0f79a0812e332e24e5ec6d51610020d3031c34fb2857.m3u8
 [BD]安徽公共,https://stream1.freetv.fun/73b72a5950f393c8fdc40d42b1b533778ee6ec53521db89854111c63bc0fe60d.ctv
@@ -2699,7 +2699,7 @@ Test,#genre#
 [BD]体育休闲,https://stream1.freetv.fun/bfd986e2dd43a875359274630b9a4bfc8b8ff7aaca0fa64ac9429684926f2154.ctv
 
 知识,#genre#
-[VGA]asharq_documentary,https://stream1.freetv.fun/6533e4430f9a9db4767409224aa980b2cb4c8b58deaa849c12ca4b6e644d448d.m3u8
+[BD]asharq_documentary,https://stream1.freetv.fun/6533e4430f9a9db4767409224aa980b2cb4c8b58deaa849c12ca4b6e644d448d.m3u8
 [SD]cctv9,https://stream1.freetv.fun/3c6125aad8eab2287c7cb76da027f3e9673949eec3709dc9f3fd0e3ae9ab4548.m3u8
 [SD]cgtn_documentary,https://stream1.freetv.fun/6d34bb468001fdfe56553b6fa75a5ff1b3583f303f5d8b1a35ca95e2938220d4.ctv
 [BD]求索纪录,https://stream1.freetv.fun/44c45dcee137e4e5f1a9ffab3fed99382bed4c4dab6937ec642e945621111004.ctv
@@ -2791,7 +2791,7 @@ Test,#genre#
 [BD]内蒙少儿,https://stream1.freetv.fun/30162d993ed08b20fc3b6406450360bfe43e35e2b5ed92373619ae12d89c71c9.m3u8
 [BD]动漫秀场,https://stream1.freetv.fun/670c5b1cdfb0effab6e9e09e5c82afcbe22528940ea1c58836e288e4f4bafb03.ctv
 [SD]哈哈炫动,https://stream1.freetv.fun/23853b067a17ae0c8d1da2142f5bc7ec78a4e080becf10dc24dc254771c3fbed.ctv
-[SD]嘉佳卡通,https://stream1.freetv.fun/f2bec353956ef6ef040eac51c4b2c34eeaa6b7f4beaa19b11e91c841be12c67e.m3u8
+[SD]嘉佳卡通,https://stream1.freetv.fun/6d228187385d7b8b5b6894f6e0900e4440338aff3e12e1c0c3677a7f2e37667e.m3u8
 [BD]山东少儿,https://stream1.freetv.fun/015dbac308d9da33dad5b4b2991f2fa094de73f086e45f9f3e3356e4e7aa6dc2.m3u8
 [BD]广东少儿,https://stream1.freetv.fun/cb3e1d8fe708cb08a4b3b6476fdffa8e267e5f8af1c8a52b6068f884c2241131.m3u8
 [SD]河北少儿科教,rtmp://tv.pull.hebtv.com/jishi/shaoerkejiao?t=2510710360&k=1c62f2efbb83251f173978255f47079d
@@ -16283,7 +16283,7 @@ BesTV_𝟟「IPV6」,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002
 七龙珠「动漫」,http://live.iill.top/huya.php?id=11601966
 猫和老鼠「动漫」,http://live.iill.top/huya.php?id=11352879
 中华小当家「动漫」,http://live.iill.top/huya.php?id=11342413
-联通,#genre#
+央视,#genre#
 CCTV-1,rtp://239.3.1.129:8008
 CCTV-2,rtp://239.3.1.60:8084
 CCTV-3,rtp://239.3.1.172:8001
@@ -16308,25 +16308,29 @@ CCTV-4K,rtp://239.3.1.245:2000
 中国教育,rtp://239.3.1.57:8152
 CGTN新闻,rtp://239.3.1.215:4220
 CGTN纪录,rtp://239.3.1.216:4220
-北京联通,rtp://239.3.1.241:8000
-东方联通,rtp://239.3.1.136:8032
-湖南联通,rtp://239.3.1.132:8012
-浙江联通,rtp://239.3.1.137:8036
-江苏联通,rtp://239.3.1.135:8028
-江西联通,rtp://239.3.1.123:8164
-河北联通,rtp://239.3.1.148:8072
-深圳联通,rtp://239.3.1.134:8020
-湖北联通,rtp://239.3.1.138:8044
-天津联通,rtp://239.3.1.148:8072
-安徽联通,rtp://239.3.1.211:8064
-山东联通,rtp://239.3.1.209:8052
-广东联通,rtp://239.3.1.142:8048
-贵州联通,rtp://239.3.1.149:8076
-辽宁联通,rtp://239.3.1.210:8056
-重庆联通,rtp://239.3.1.122:8160
-龙江联通,rtp://239.3.1.133:8016
-吉林联通,rtp://239.3.1.240:8172
-东南联通,rtp://239.3.1.156:8148
+
+卫视,#genre#
+北京卫视,rtp://239.3.1.241:8000
+东方卫视,rtp://239.3.1.136:8032
+湖南卫视,rtp://239.3.1.132:8012
+浙江卫视,rtp://239.3.1.137:8036
+江苏卫视,rtp://239.3.1.135:8028
+江西卫视,rtp://239.3.1.123:8164
+河北卫视,rtp://239.3.1.148:8072
+深圳卫视,rtp://239.3.1.134:8020
+湖北卫视,rtp://239.3.1.138:8044
+天津卫视,rtp://239.3.1.148:8072
+安徽卫视,rtp://239.3.1.211:8064
+山东卫视,rtp://239.3.1.209:8052
+广东卫视,rtp://239.3.1.142:8048
+贵州卫视,rtp://239.3.1.149:8076
+辽宁卫视,rtp://239.3.1.210:8056
+重庆卫视,rtp://239.3.1.122:8160
+龙江卫视,rtp://239.3.1.133:8016
+吉林卫视,rtp://239.3.1.240:8172
+东南卫视,rtp://239.3.1.156:8148
+
+地方,#genre#
 北京新闻,rtp://239.3.1.159:8000
 北京财经,rtp://239.3.1.115:8000
 北京生活,rtp://239.3.1.117:8000
@@ -16336,8 +16340,6 @@ CGTN纪录,rtp://239.3.1.216:4220
 体育休闲,rtp://239.3.1.243:8000
 纪实科教,rtp://239.3.1.115:8000
 卡酷少儿,rtp://239.3.1.189:8000
-爱上4K,rtp://239.3.1.236:2000
-4K超清,rtp://239.3.1.249:8001
 金鹰纪实,rtp://239.3.1.58:8156
 纪实人文,rtp://239.3.1.212:8060
 乐游频道,rtp://239.3.1.207:8001
