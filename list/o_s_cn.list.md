@@ -1,4 +1,4 @@
-# List for **iptv.org stream China**(Rollback)
+# List for **iptv.org stream China**
 
 > M3U: [o_s_cn.m3u](/o_s_cn.m3u), TXT: [o_s_cn.txt](/txt/o_s_cn.txt)
 
@@ -375,4 +375,4 @@
 | 369 | 黑龙江卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/31/index.m3u8> |
 | 370 | CGTN Spanish (720p) | IPv4 直链 | <http://45.165.82.19/test/index.m3u8> |
 
-Updated at **Wed Jun 24 2026 07:34:14 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jun 24 2026 10:42:32 GMT+0000 (Coordinated Universal Time)**
